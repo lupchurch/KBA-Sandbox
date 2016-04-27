@@ -14,10 +14,10 @@ Sandbox for the EDI team to learn GIT
 ##### ToDo
 
 - [x] Add new file via Website
-- [ ] Add new file from client (DSG01 Branch)
+- [x] Add new file from client (DSG01 Branch)
 - [ ] Generate known conflict to resolve
 - [x] Add to README.MD from client
-- [x] Add Second branch DSG02 off of DSG01
+- [ ] Add Second branch DSG02 off of DSG01
 
 
 ##### Group Training

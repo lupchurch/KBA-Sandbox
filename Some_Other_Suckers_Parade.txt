@@ -1,9 +1,10 @@
-Title: Some Other Sucker's Parade
+sTitle: Some Other Sucker's Parade
 Artist: Del Amitri
 
 I must've had a million damn unlucky days 
 But there ain't no cloud that a bottle can't chase away 
 And I've done my deal of living, ran from place to place 
+**** added a line here ****
 But when the roof comes in I don't wanna take it straight 
 
 [Chorus]
