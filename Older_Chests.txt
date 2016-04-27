@@ -23,9 +23,11 @@ On my mind
 So pass me by, I'll be fine
 Just give me time
 
+LU added a line here
+
 Older gents sit on the fence
 With their cap in hand
-Looking grand
+//Looking grand// marked this line LU
 They watch their city change
 Children scream, or so it seems,
 Louder than before
